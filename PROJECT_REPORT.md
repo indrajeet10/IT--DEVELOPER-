@@ -4,8 +4,9 @@
 ---
 
 ### Submitted By
-**[Your Name]**
-Internship Project — [Company / Institution Name]
+INDRAJEET KUMAR 
+ARKA JAIN UNIVERSITY, JAMSHEDPUR, JHARKHAND 
+Internship Project — IT DEVELOPER 
 Date: May 2026
 
 ---
@@ -289,7 +290,4 @@ FinTrack is a complete, production-ready personal finance management system. It 
 - Mobile app (React Native / Expo)
 - Multi-currency conversion using live exchange rates
 - AI-powered spending insights and recommendations
-
----
-
-*Report prepared for internship submission — FinTrack Personal Finance Management System, May 2026*
+____
